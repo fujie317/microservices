@@ -1,0 +1,14 @@
+com/me/microservices/api/core/product/Product.class
+com/me/microservices/api/composite/product/ReviewSummary.class
+com/me/microservices/api/core/recommendation/Recommendation.class
+com/me/microservices/api/core/review/Review.class
+com/me/microservices/api/core/review/ReviewService.class
+com/me/microservices/api/exception/NotFoundException.class
+com/me/microservices/api/core/product/ProductService.class
+com/me/microservices/api/core/recommendation/RecommendationService.class
+com/me/microservices/api/exception/BadRequestException.class
+com/me/microservices/api/exception/InvalidInputException.class
+com/me/microservices/api/composite/product/ServiceAddresses.class
+com/me/microservices/api/composite/product/ProductCompositeService.class
+com/me/microservices/api/composite/product/RecommendationSummary.class
+com/me/microservices/api/composite/product/ProductAggregate.class

@@ -1,0 +1,4 @@
+META-INF/spring-configuration-metadata.json
+com/me/microservices/core/product/config/ProductServiceConfiguration.class
+com/me/microservices/core/product/services/ProductServiceImpl.class
+com/me/microservices/core/product/ProductServiceApplication.class

@@ -1,0 +1,14 @@
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/core/recommendation/RecommendationService.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/exception/BadRequestException.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/exception/NotFoundException.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/exception/InvalidInputException.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/composite/product/RecommendationSummary.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/core/review/ReviewService.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/composite/product/ServiceAddresses.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/core/review/Review.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/core/product/Product.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/composite/product/ProductCompositeService.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/core/recommendation/Recommendation.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/composite/product/ReviewSummary.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/composite/product/ProductAggregate.java
+/home/fzhang/Documents/workspace-STS/microservices/microservices-api/src/main/java/com/me/microservices/api/core/product/ProductService.java

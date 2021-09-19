@@ -1,0 +1,3 @@
+com/me/microservices/util/http/ServiceUtil.class
+com/me/microservices/util/http/GlobalControllerExceptionHandler.class
+com/me/microservices/util/http/HttpErrorInfo.class
